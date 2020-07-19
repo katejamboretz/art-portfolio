@@ -1,31 +1,22 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Navbar, Nav } from "react-bootstrap";
 
 function NavTabs() {
   return (
-    <ul className="nav nav-tabs">
-      <li className="nav-item">
-        <Link to="/" className={window.location.pathname === "/" ? "nav-link active" : "nav-link"}>
-          Home
-        </Link>
-      </li>
-      <li className="nav-item">
-        <Link
-          to="/about"
-          className={window.location.pathname === "/about" ? "nav-link active" : "nav-link"}
-        >
-          About
-        </Link>
-      </li>
-      <li className="nav-item">
-        <Link
-          to="/contact"
-          className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}
-        >
-          Contact
-        </Link>
-      </li>
-    </ul>
+    <>
+      <Navbar bg="light" expand="lg">
+        <Navbar.Brand href="home">Art by Anne</Navbar.Brand>
+        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Collapse id="basic-navbar-nav">
+          <Nav className="mr-auto">
+            <Nav.Link href="home">Home</Nav.Link>
+            <Nav.Link href="about">About</Nav.Link>
+            <Nav.Link href="contact">Contact</Nav.Link>
+          </Nav>
+        </Navbar.Collapse>
+      </Navbar>
+
+    </>
   );
 }
 
