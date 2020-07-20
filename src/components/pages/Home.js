@@ -1,25 +1,18 @@
 import React, { Component } from "react";
-import { GiBeveledStar } from 'react-icons/gi';
+import ImageCarousel from '../ImageCarousel';
+import './pagestyle.css';
 
 
 export default class Home extends Component {
 
     render() {
         return (
-            <div className="App">
+            <div className="Body">
                 <br></br>
                 <br></br>
-                <h1>
-                    Art by Anne
-                </h1>
-                <br></br>
-                <p><GiBeveledStar /></p>
+                <ImageCarousel />
                 <br></br>
                 <br></br>
-                <p>Carasol goes here....</p>
-                <br></br>
-                <br></br>
-                <p><GiBeveledStar /></p>
             </div>
         );
     }

@@ -1,11 +1,12 @@
 import React, { Component } from "react";
 import { GiBeveledStar } from 'react-icons/gi';
+import './pagestyle.css';
 
 export default class About extends Component {
 
     render() {
         return (
-            <div className="App">
+            <div className="Body m-5 my-center">
                 <br></br>
                 <br></br>
                 <h1>
@@ -15,7 +16,7 @@ export default class About extends Component {
                 <p>< GiBeveledStar /></p>
                 <br></br>
                 <p>
-                    Anne is a young upcoming artist in Boise, Idaho.
+                    Anne is a young, up and coming artist in Boise, Idaho.
                 </p>
 
                 <p>She specializes in oil paintings and drawings inspired by photographs, music and her imagination.</p>
