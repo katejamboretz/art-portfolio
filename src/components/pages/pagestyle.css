@@ -6,3 +6,18 @@
     margin-top: auto;
     margin-bottom: auto;
 }
+
+.carousel-item {
+    position: relative !important;
+}
+
+.image-overlay {
+    position: absolute;
+    /* opacity: 0.5; */
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    background-image: url(./watermark.png);
+    /* background: rgba(0, 0, 0, 0.6) */
+}
