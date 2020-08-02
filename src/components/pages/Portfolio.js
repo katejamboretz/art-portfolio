@@ -3,12 +3,14 @@ import ImageCarousel from '../ImageCarousel';
 import './pagestyle.css';
 
 
-export default class Home extends Component {
+export default class Portfolio extends Component {
 
     render() {
         return (
-            <div className="Body">
-                <br></br>
+            <div className="Body m-5">
+                <h1>
+                    Portfolio
+                </h1>
                 <br></br>
                 <ImageCarousel />
                 <br></br>

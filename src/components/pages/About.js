@@ -7,11 +7,15 @@ export default class About extends Component {
     render() {
         return (
             <div className="Body m-5 my-center">
-                <br></br>
-                <br></br>
                 <h1>
-                    About the Artist
+                    Background
                 </h1>
+                <br></br>
+                <p>< GiBeveledStar /></p>
+                <br></br>
+                <img className='profile-pic' src='anne_profilepic.png' alt='profile-pic'></img>
+                <br></br>
+                <br></br>
                 <br></br>
                 <p>< GiBeveledStar /></p>
                 <br></br>
@@ -20,6 +24,7 @@ export default class About extends Component {
                 </p>
 
                 <p>She specializes in oil paintings and drawings inspired by photographs, music and her imagination.</p>
+                <p>She enjoys depicting images in an impressionistic and expressionistic manner, and emphasizing certain parts of the image she finds important or for aesthetic purposes.</p>
                 <p>Her awe-provoking style is realistic, abstract or bridges the two.</p>
                 <p>When she's not painting or drawing, she may be at work as a line cook or enjoying running in the Boise Foothills or playing the saxaphone.</p>
                 <br></br>

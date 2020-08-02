@@ -8,7 +8,7 @@ function ImageCarousel() {
             <Carousel>
                 <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-1 img d-block m-auto"
                         src='images/jamboretz-anne-abstract.jpg'
                         alt="Abstract"
                     />
@@ -18,9 +18,9 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-2 img d-block m-auto"
                         src='images/jamboretz-anne-abstract2.jpg'
                         alt="Abstract 2"
                     />
@@ -30,9 +30,9 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-3 img d-block m-auto"
                         src='images/jamboretz-anne-brass.jpg'
                         alt="Brass"
                     />
@@ -42,9 +42,9 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-4 img d-block m-auto"
                         src='images/jamboretz-anne-city.jpg'
                         alt="City"
                     />
@@ -54,9 +54,9 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-5 img d-block m-auto"
                         src='images/jamboretz-anne-colors.jpg'
                         alt="Colors"
                     />
@@ -66,9 +66,9 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-6 img d-block m-auto"
                         src='images/jamboretz-anne-curious.jpg'
                         alt="Curious"
                     />
@@ -78,9 +78,9 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-7 img d-block m-auto"
                         src='images/jamboretz-anne-forestfire.jpg'
                         alt="Forest Fire"
                     />
@@ -90,9 +90,9 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-8 img d-block m-auto"
                         src='images/jamboretz-anne-guitarist.jpg'
                         alt="Guitarist"
                     />
@@ -102,9 +102,9 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-9 img d-block m-auto"
                         src='images/jamboretz-anne-jazzconcert.jpg'
                         alt="Jazz Concert"
                     />
@@ -114,9 +114,9 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-10 img d-block m-auto"
                         src='images/jamboretz-anne-lake.jpg'
                         alt="Lake"
                     />
@@ -126,9 +126,9 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-11 img d-block m-auto"
                         src='images/jamboretz-anne-marchingband.jpg'
                         alt="Marching Band"
                     />
@@ -138,9 +138,9 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-12 img d-block m-auto"
                         src='images/jamboretz-anne-railroadhouse.jpg'
                         alt="Rail Road House"
                     />
@@ -150,9 +150,9 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-13 img d-block m-auto"
                         src='images/jamboretz-anne-soundofjazz.jpg'
                         alt="Sound of Jazz"
                     />
@@ -162,9 +162,9 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-14 img d-block m-auto"
                         src='images/jamboretz-anne-streetlights.jpg'
                         alt="Street Lights"
                     />
@@ -174,9 +174,9 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-15 img d-block m-auto"
                         src='images/jamboretz-anne-trane.jpg'
                         alt="Coltrane"
                     />
@@ -186,9 +186,9 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
-                        className="d-block w-100 m-auto"
+                        className="number-16 img d-block m-auto"
                         src='images/jamboretz-anne-womenportrait.jpg'
                         alt="Women Portrait"
                     />
