@@ -1,22 +1,22 @@
 import React from "react";
 import Carousel from 'react-bootstrap/Carousel';
 import "./pages/pagestyle.css";
-import abstract from "./pages/images/jamboretz-anne-abstract.jpg";
-import abstract2 from "./pages/images/jamboretz-anne-abstract2.jpg";
-import brass from "./pages/images/jamboretz-anne-brass.jpg";
-import city from "./pages/images/jamboretz-anne-city.jpg";
-import colors from "./pages/images/jamboretz-anne-colors.jpg";
-import curious from "./pages/images/jamboretz-anne-curious.jpg";
-import forestfire from "./pages/images/jamboretz-anne-forestfire.jpg";
-import guitarist from "./pages/images/jamboretz-anne-guitarist.jpg";
-import jazzconcert from "./pages/images/jamboretz-anne-jazzconcert.jpg";
-import lake from "./pages/images/jamboretz-anne-lake.jpg";
-import marchingband from "./pages/images/jamboretz-anne-marchingband.jpg";
-import railroadhouse from "./pages/images/jamboretz-anne-railroadhouse.jpg";
-import soundofjazz from "./pages/images/jamboretz-anne-soundofjazz.jpg";
-import streetlights from "./pages/images/jamboretz-anne-streetlights.jpg";
-import trane from "./pages/images/jamboretz-anne-trane.jpg";
-import womenportrait from "./pages/images/jamboretz-anne-womenportrait.jpg";
+import abstract from "../images/jamboretz-anne-abstract.jpg";
+import abstract2 from "../images/jamboretz-anne-abstract2.jpg";
+import brass from "../images/jamboretz-anne-brass.jpg";
+import city from "../images/jamboretz-anne-city.jpg";
+import colors from "../images/jamboretz-anne-colors.jpg";
+import curious from "../images/jamboretz-anne-curious.jpg";
+import forestfire from "../images/jamboretz-anne-forestfire.jpg";
+import guitarist from "../images/jamboretz-anne-guitarist.jpg";
+import jazzconcert from "../images/jamboretz-anne-jazzconcert.jpg";
+import lake from "../images/jamboretz-anne-lake.jpg";
+import marchingband from "../images/jamboretz-anne-marchingband.jpg";
+import railroadhouse from "../images/jamboretz-anne-railroadhouse.jpg";
+import soundofjazz from "../images/jamboretz-anne-soundofjazz.jpg";
+import streetlights from "../images/jamboretz-anne-streetlights.jpg";
+import trane from "../images/jamboretz-anne-trane.jpg";
+import womenportrait from "../images/jamboretz-anne-womenportrait.jpg";
 
 function ImageCarousel() {
     return (
