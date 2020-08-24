@@ -2,6 +2,7 @@
 
 # images
 /public/images
+/src/components/pages/images
 
 # dependencies
 /node_modules
