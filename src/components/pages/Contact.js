@@ -15,7 +15,7 @@ export default class Contact extends Component {
                 <p>< GiBeveledStar /></p>
                 <br></br>
                 <p>
-                    To discuss custom paintings or prints, or displaying images at your business, please email anne.jamboretz@gmail.com.
+                    To inquire about custom paintings or prints, or displaying pieces at your business, please email anne.jamboretz@gmail.com.
                 </p>
                 <br></br>
                 <p>< GiBeveledStar /></p>
