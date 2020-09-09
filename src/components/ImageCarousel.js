@@ -24,6 +24,54 @@ function ImageCarousel() {
             <Carousel>
                 <Carousel.Item className="carousel-item">
                     <img
+                        className='number-03 img d-block m-auto'
+                        src='jamboretz-anne-doubleguitar.jpg'
+                        alt='Double Guitar'
+                    />
+                    <div className="image-overlay"></div>
+                    {/* <Carousel.Caption>
+                        <h4>Abstract</h4>
+                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
+                    </Carousel.Caption> */}
+                </Carousel.Item>
+                <Carousel.Item className="carousel-item">
+                    <img
+                        className='number-02 img d-block m-auto'
+                        src='jamboretz-anne-dream.jpg'
+                        alt='Dream'
+                    />
+                    <div className="image-overlay"></div>
+                    {/* <Carousel.Caption>
+                        <h4>Abstract</h4>
+                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
+                    </Carousel.Caption> */}
+                </Carousel.Item>
+                <Carousel.Item className="carousel-item">
+                    <img
+                        className='number-01 img d-block m-auto'
+                        src='jamboretz-anne-scruffy.jpg'
+                        alt='Scruffy'
+                    />
+                    <div className="image-overlay"></div>
+                    {/* <Carousel.Caption>
+                        <h4>Abstract</h4>
+                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
+                    </Carousel.Caption> */}
+                </Carousel.Item>
+                <Carousel.Item className="carousel-item">
+                    <img
+                        className='number-0 img d-block m-auto'
+                        src='jamboretz-anne-toby.jpg'
+                        alt='Toby'
+                    />
+                    <div className="image-overlay"></div>
+                    {/* <Carousel.Caption>
+                        <h4>Abstract</h4>
+                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
+                    </Carousel.Caption> */}
+                </Carousel.Item>
+                <Carousel.Item className="carousel-item">
+                    <img
                         className='number-1 img d-block m-auto'
                         src='jamboretz-anne-abstract.jpg'
                         alt='Abstract'
