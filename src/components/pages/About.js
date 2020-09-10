@@ -19,15 +19,19 @@ export default class About extends Component {
                 <br></br>
                 <p>< GiBeveledStar /></p>
                 <br></br>
-                <p>
-                    Anne is a young, up and coming artist in Boise, Idaho.
-                </p>
-
-                <p>She specializes in oil paintings and drawings inspired by photographs, music and her imagination.</p>
-                <p>She enjoys depicting images in an impressionistic and expressionistic manner, and emphasizing certain parts of the image she finds important or for aesthetic purposes.</p>
-                <p>Her awe-provoking style is realistic, abstract or bridges the two.</p>
-                <p>When she's not painting or drawing, she may be at work as a line cook or enjoying running in the Boise Foothills or playing the saxaphone.</p>
+                <p>ART SHOWINGS</p>
+                <p><a href="http://www.boiseartmuseum.org/exhibition/higher-ground-2019/">Boise Art Museum, Higher Ground, 2019</a></p>
                 <br></br>
+                <p>CUSTOM PIECES</p>
+                <p>Toby, pet dog</p>
+                <p>Scruffy, pet dog</p>
+                <br></br>
+                <p>ABOUT</p>
+                <p>
+                    Anne is a young, up and coming artist in Boise, Idaho. She specializes in oil paintings and drawings inspired by photographs, music and her imagination.
+                    She depicts images in an impressionistic and expressionistic manner, and emphasizing certain parts of the image she finds important or for aesthetic purposes.
+                    Her awe-provoking style is realistic, abstract or bridges the two.
+                    When she's not painting or drawing, she may be at work as a line cook, running in the Boise Foothills or playing the saxaphone.</p>
                 <br></br>
                 <p>< GiBeveledStar /></p>
             </div>
