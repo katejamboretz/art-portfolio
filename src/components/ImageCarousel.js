@@ -83,18 +83,18 @@ function ImageCarousel() {
                         <p>Toby, Custom Request</p>
                     </Carousel.Caption>
                 </Carousel.Item>
-                <Carousel.Item className="carousel-item">
+                {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-9 img d-block m-auto'
                         src='jamboretz-anne-jazzconcert.jpg'
                         alt='Jazz Concert'
                     />
-                    <div className="image-overlay"></div>
-                    {/* <Carousel.Caption>
+                    <div className="image-overlay"></div> */}
+                {/* <Carousel.Caption>
                         <h3>Jazz Concert</h3>
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
-                </Carousel.Item>
+                {/* </Carousel.Item> */}
                 {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-6 img d-block m-auto'
