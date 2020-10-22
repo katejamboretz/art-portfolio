@@ -25,7 +25,7 @@ function ImageCarousel() {
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-03 img d-block m-auto'
-                        src='jamboretz-anne-doubleguitar.jpg'
+                        src='jamboretz-anne-doubleguitar.png'
                         alt='Double Guitar'
                     />
                     <div className="image-overlay"></div>
@@ -37,7 +37,7 @@ function ImageCarousel() {
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-15 img d-block m-auto'
-                        src='jamboretz-anne-trane.jpg'
+                        src='jamboretz-anne-trane.png'
                         alt='Coltrane'
                     />
                     <div className="image-overlay"></div>
@@ -46,11 +46,10 @@ function ImageCarousel() {
                         <p>John Coltrane, <a href="http://www.boiseartmuseum.org/exhibition/higher-ground-2019/">Boise Art Museum, Higher Ground, 2019</a></p>
                     </Carousel.Caption>
                 </Carousel.Item>
-
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-02 img d-block m-auto'
-                        src='jamboretz-anne-dream.jpg'
+                        src='jamboretz-anne-dream.png'
                         alt='Dream'
                     />
                     <div className="image-overlay"></div>
@@ -62,7 +61,7 @@ function ImageCarousel() {
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-01 img d-block m-auto'
-                        src='jamboretz-anne-scruffy.jpg'
+                        src='jamboretz-anne-scruffy.png'
                         alt='Scruffy'
                     />
                     <div className="image-overlay"></div>
@@ -74,7 +73,7 @@ function ImageCarousel() {
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-0 img d-block m-auto'
-                        src='jamboretz-anne-toby.jpg'
+                        src='jamboretz-anne-toby.png'
                         alt='Toby'
                     />
                     <div className="image-overlay"></div>
@@ -86,7 +85,7 @@ function ImageCarousel() {
                 {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-9 img d-block m-auto'
-                        src='jamboretz-anne-jazzconcert.jpg'
+                        src='jamboretz-anne-jazzconcert.png'
                         alt='Jazz Concert'
                     />
                     <div className="image-overlay"></div> */}
@@ -98,7 +97,7 @@ function ImageCarousel() {
                 {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-6 img d-block m-auto'
-                        src='jamboretz-anne-curious.jpg'
+                        src='jamboretz-anne-curious.png'
                         alt='Curious'
                     />
                     <div className="image-overlay"></div> */}
@@ -110,7 +109,7 @@ function ImageCarousel() {
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-7 img d-block m-auto'
-                        src='jamboretz-anne-forestfire.jpg'
+                        src='jamboretz-anne-forestfire.png'
                         alt='Forest Fire'
                     />
                     <div className="image-overlay"></div>
@@ -122,7 +121,7 @@ function ImageCarousel() {
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-8 img d-block m-auto'
-                        src='jamboretz-anne-guitarist.jpg'
+                        src='jamboretz-anne-guitarist.png'
                         alt='Guitarist'
                     />
                     <div className="image-overlay"></div>
@@ -134,7 +133,7 @@ function ImageCarousel() {
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-4 img d-block m-auto'
-                        src='jamboretz-anne-city.jpg'
+                        src='jamboretz-anne-city.png'
                         alt='City'
                     />
                     <div className="image-overlay"></div>
@@ -146,7 +145,7 @@ function ImageCarousel() {
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-5 img d-block m-auto'
-                        src='jamboretz-anne-colors.jpg'
+                        src='jamboretz-anne-colors.png'
                         alt='Colors'
                     />
                     <div className="image-overlay"></div>
@@ -158,7 +157,7 @@ function ImageCarousel() {
                 {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-10 img d-block m-auto'
-                        src='jamboretz-anne-lake.jpg'
+                        src='jamboretz-anne-lake.png'
                         alt='Lake'
                     />
                     <div className="image-overlay"></div> */}
@@ -170,7 +169,7 @@ function ImageCarousel() {
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-11 img d-block m-auto'
-                        src='jamboretz-anne-marchingband.jpg'
+                        src='jamboretz-anne-marchingband.png'
                         alt='Marching Band'
                     />
                     <div className="image-overlay"></div>
@@ -182,7 +181,7 @@ function ImageCarousel() {
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-12 img d-block m-auto'
-                        src='jamboretz-anne-railroadhouse.jpg'
+                        src='jamboretz-anne-railroadhouse.png'
                         alt='Rail Road House'
                     />
                     <div className="image-overlay"></div>
@@ -194,7 +193,7 @@ function ImageCarousel() {
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-13 img d-block m-auto'
-                        src='jamboretz-anne-soundofjazz.jpg'
+                        src='jamboretz-anne-soundofjazz.png'
                         alt='Sound of Jazz'
                     />
                     <div className="image-overlay"></div>
@@ -206,7 +205,7 @@ function ImageCarousel() {
                 {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-14 img d-block m-auto'
-                        src='jamboretz-anne-streetlights.jpg'
+                        src='jamboretz-anne-streetlights.png'
                         alt='Street Lights'
                     />
                     <div className="image-overlay"></div> */}
@@ -218,7 +217,7 @@ function ImageCarousel() {
                 {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-3 img d-block m-auto'
-                        src='jamboretz-anne-brass.jpg'
+                        src='jamboretz-anne-brass.png'
                         alt='Brass'
                     />
                     <div className="image-overlay"></div> */}
@@ -230,7 +229,7 @@ function ImageCarousel() {
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-16 img d-block m-auto'
-                        src='jamboretz-anne-womenportrait.jpg'
+                        src='jamboretz-anne-womenportrait.png'
                         alt='Women Portrait'
                     />
                     <div className="image-overlay"></div>
@@ -242,7 +241,7 @@ function ImageCarousel() {
                 {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-2 img d-block m-auto'
-                        src='jamboretz-anne-abstract2.jpg'
+                        src='jamboretz-anne-abstract2.png'
                         alt='Abstract 2'
                     />
                     <div className="image-overlay"></div> */}
@@ -254,7 +253,7 @@ function ImageCarousel() {
                 {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-1 img d-block m-auto'
-                        src='jamboretz-anne-abstract.jpg'
+                        src='jamboretz-anne-abstract.png'
                         alt='Abstract'
                     />
                     <div className="image-overlay"></div> */}
