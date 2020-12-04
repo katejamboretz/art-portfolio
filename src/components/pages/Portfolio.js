@@ -8,9 +8,9 @@ export default class Portfolio extends Component {
     render() {
         return (
             <div className="Body m-5">
-                <h1>
+                {/* <h1>
                     Portfolio
-                </h1>
+                </h1> */}
                 <br></br>
                 <ImageCarousel />
                 <br></br>

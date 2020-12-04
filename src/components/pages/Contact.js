@@ -8,17 +8,22 @@ export default class Contact extends Component {
     render() {
         return (
             <div className="Body m-5 my-center">
-                <h1>
+                {/* <h1>
                     Contact
-                </h1>
+                </h1> */}
                 <br></br>
-                <p>< GiBeveledStar /></p>
                 <br></br>
-                <p>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <p className="description">< GiBeveledStar /></p>
+                <br></br>
+                <p className="description">
                     To inquire about custom pieces or prints, or display art at your business, please email anne.jamboretz@gmail.com.
                 </p>
                 <br></br>
-                <p>< GiBeveledStar /></p>
+                <p className="description">< GiBeveledStar /></p>
 
             </div>
         );
