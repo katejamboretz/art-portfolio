@@ -36,6 +36,102 @@ function ImageCarousel() {
                 </Carousel.Item>
                 <Carousel.Item className="carousel-item">
                     <img
+                        className='number-17 img d-block m-auto'
+                        src='jamboretz-anne-boxer.png'
+                        alt='Boxer'
+                    />
+                    <div className="image-overlay"></div>
+                    <Carousel.Caption>
+                        {/* <h4>Abstract</h4> */}
+                        <p>Kokua</p>
+                    </Carousel.Caption>
+                </Carousel.Item>
+                <Carousel.Item className="carousel-item">
+                    <img
+                        className='number-20 img d-block m-auto'
+                        src='jamboretz-anne-cat.png'
+                        alt='Cat'
+                    />
+                    <div className="image-overlay"></div>
+                    {/* <Carousel.Caption>
+                        <h4>Abstract</h4>
+                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
+                    </Carousel.Caption> */}
+                </Carousel.Item>
+                <Carousel.Item className="carousel-item">
+                    <img
+                        className='number-03 img d-block m-auto'
+                        src='jamboretz-anne-reef.png'
+                        alt='Reef'
+                    />
+                    <div className="image-overlay"></div>
+                    <Carousel.Caption>
+                        {/* <h4>Abstract</h4> */}
+                        <p>Reef</p>
+                    </Carousel.Caption>
+                </Carousel.Item>
+                <Carousel.Item className="carousel-item">
+                    <img
+                        className='number-18 img d-block m-auto'
+                        src='jamboretz-anne-kitchen.png'
+                        alt='Kitchen'
+                    />
+                    <div className="image-overlay"></div>
+                    {/* <Carousel.Caption>
+                        <h4>Abstract</h4>
+                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
+                    </Carousel.Caption> */}
+                </Carousel.Item>
+                <Carousel.Item className="carousel-item">
+                    <img
+                        className='number-19 img d-block m-auto'
+                        src='jamboretz-anne-buffalo.png'
+                        alt='Buffalo'
+                    />
+                    <div className="image-overlay"></div>
+                    {/* <Carousel.Caption>
+                        <h4>Abstract</h4>
+                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
+                    </Carousel.Caption> */}
+                </Carousel.Item>
+                <Carousel.Item className="carousel-item">
+                    <img
+                        className='number-21 img d-block m-auto'
+                        src='jamboretz-anne-hounds.png'
+                        alt='Hounds'
+                    />
+                    <div className="image-overlay"></div>
+                    {/* <Carousel.Caption>
+                        <h4>Abstract</h4>
+                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
+                    </Carousel.Caption> */}
+                </Carousel.Item>
+                <Carousel.Item className="carousel-item">
+                    <img
+                        className='number-22 img d-block m-auto'
+                        src='jamboretz-anne-fatcat.png'
+                        alt='Fat Cat'
+                    />
+                    <div className="image-overlay"></div>
+                    {/* <Carousel.Caption>
+                        <h4>Abstract</h4>
+                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
+                    </Carousel.Caption> */}
+                </Carousel.Item>
+                <Carousel.Item className="carousel-item">
+                    <img
+                        className='number-23 img d-block m-auto'
+                        src='jamboretz-anne-oldman.png'
+                        alt='Old Man'
+                    />
+                    <div className="image-overlay"></div>
+                    {/* <Carousel.Caption>
+                        <h4>Abstract</h4>
+                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
+                    </Carousel.Caption> */}
+                </Carousel.Item>
+                <Carousel.Item className="carousel-item">
+                    <img
                         className='number-15 img d-block m-auto'
                         src='jamboretz-anne-trane.png'
                         alt='Coltrane'
@@ -55,7 +151,7 @@ function ImageCarousel() {
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
                         {/* <h4>Kid Cudi</h4> */}
-                        <p>Kid Cudi, Custom Request</p>
+                        <p>Kid Cudi</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item className="carousel-item">
@@ -67,7 +163,7 @@ function ImageCarousel() {
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
                         {/* <h4>Scruffy</h4> */}
-                        <p>Scruffy, Custom Request</p>
+                        <p>Scruffy</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item className="carousel-item">
@@ -79,7 +175,7 @@ function ImageCarousel() {
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
                         {/* <h4>Toby</h4> */}
-                        <p>Toby, Custom Request</p>
+                        <p>Toby</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 {/* <Carousel.Item className="carousel-item">
