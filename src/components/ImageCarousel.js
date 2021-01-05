@@ -70,18 +70,18 @@ function ImageCarousel() {
                         <p>Reef</p>
                     </Carousel.Caption>
                 </Carousel.Item>
-                {/* <Carousel.Item className="carousel-item">
+                <Carousel.Item className="carousel-item">
                     <img
                         className='number-18 img d-block m-auto'
-                        src='jamboretz-anne-kitchen.png'
-                        alt='Kitchen'
+                        src='jamboretz-anne-boxerpuppy.png'
+                        alt='Boxer Puppy'
                     />
                     <div className="image-overlay"></div>
                     {/* <Carousel.Caption>
-                        <h4>Abstract</h4>
+                        <h4>Boxer Puppy</h4>
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
-                    </Carousel.Caption>
-                </Carousel.Item> */}
+                    </Carousel.Caption> */}
+                </Carousel.Item>
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-19 img d-block m-auto'
@@ -118,42 +118,42 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                {/* <Carousel.Item className="carousel-item">
+                <Carousel.Item className="carousel-item">
                     <img
                         className='number-23 img d-block m-auto'
-                        src='jamboretz-anne-oldman.png'
-                        alt='Old Man'
+                        src='jamboretz-anne-twodogs.png'
+                        alt='Two Dogs'
                     />
                     <div className="image-overlay"></div>
                     {/* <Carousel.Caption>
                         <h4>Abstract</h4>
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
-                    </Carousel.Caption>
-                </Carousel.Item> */}
-                {/* <Carousel.Item className="carousel-item">
+                    </Carousel.Caption> */}
+                </Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
                         className='number-15 img d-block m-auto'
-                        src='jamboretz-anne-trane.png'
-                        alt='Coltrane'
+                        src='jamboretz-anne-basset.png'
+                        alt='Basset Hound'
                     />
                     <div className="image-overlay"></div>
-                    <Carousel.Caption>
-                        {/* <h3>John Coltrane</h3>
-                        <p>John Coltrane, <a href="http://www.boiseartmuseum.org/exhibition/higher-ground-2019/">Boise Art Museum, Higher Ground, 2019</a></p>
-                    </Carousel.Caption>
-                </Carousel.Item> */}
-                {/* <Carousel.Item className="carousel-item">
+                    {/* <Carousel.Caption>
+                            <h3>Basset Hound</h3>
+                            <p></p>
+                        </Carousel.Caption> */}
+                </Carousel.Item>
+                <Carousel.Item className="carousel-item">
                     <img
                         className='number-02 img d-block m-auto'
-                        src='jamboretz-anne-dream.png'
-                        alt='Dream'
+                        src='jamboretz-anne-dogandgirl.png'
+                        alt='girlanddog'
                     />
                     <div className="image-overlay"></div>
-                    <Carousel.Caption>
-                        {/* <h4>Kid Cudi</h4>
-                        <p>Kid Cudi</p>
-                    </Carousel.Caption>
-                </Carousel.Item> */}
+                    {/* <Carousel.Caption>
+                        <h4>Girl and Dog</h4>
+                        <p></p>
+                    </Carousel.Caption> */}
+                </Carousel.Item>
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-01 img d-block m-auto'
