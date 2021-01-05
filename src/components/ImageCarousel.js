@@ -70,7 +70,7 @@ function ImageCarousel() {
                         <p>Reef</p>
                     </Carousel.Caption>
                 </Carousel.Item>
-                <Carousel.Item className="carousel-item">
+                {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-18 img d-block m-auto'
                         src='jamboretz-anne-kitchen.png'
@@ -80,8 +80,8 @@ function ImageCarousel() {
                     {/* <Carousel.Caption>
                         <h4>Abstract</h4>
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
-                    </Carousel.Caption> */}
-                </Carousel.Item>
+                    </Carousel.Caption>
+                </Carousel.Item> */}
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-19 img d-block m-auto'
@@ -118,7 +118,7 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item className="carousel-item">
+                {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-23 img d-block m-auto'
                         src='jamboretz-anne-oldman.png'
@@ -128,9 +128,9 @@ function ImageCarousel() {
                     {/* <Carousel.Caption>
                         <h4>Abstract</h4>
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
-                    </Carousel.Caption> */}
-                </Carousel.Item>
-                <Carousel.Item className="carousel-item">
+                    </Carousel.Caption>
+                </Carousel.Item> */}
+                {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-15 img d-block m-auto'
                         src='jamboretz-anne-trane.png'
@@ -138,11 +138,11 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        {/* <h3>John Coltrane</h3> */}
+                        {/* <h3>John Coltrane</h3>
                         <p>John Coltrane, <a href="http://www.boiseartmuseum.org/exhibition/higher-ground-2019/">Boise Art Museum, Higher Ground, 2019</a></p>
                     </Carousel.Caption>
-                </Carousel.Item>
-                <Carousel.Item className="carousel-item">
+                </Carousel.Item> */}
+                {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-02 img d-block m-auto'
                         src='jamboretz-anne-dream.png'
@@ -150,10 +150,10 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        {/* <h4>Kid Cudi</h4> */}
+                        {/* <h4>Kid Cudi</h4>
                         <p>Kid Cudi</p>
                     </Carousel.Caption>
-                </Carousel.Item>
+                </Carousel.Item> */}
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-01 img d-block m-auto'
@@ -166,7 +166,7 @@ function ImageCarousel() {
                         <p>Scruffy</p>
                     </Carousel.Caption>
                 </Carousel.Item>
-                <Carousel.Item className="carousel-item">
+                {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-0 img d-block m-auto'
                         src='jamboretz-anne-toby.png'
@@ -174,10 +174,10 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        {/* <h4>Toby</h4> */}
+                        {/* <h4>Toby</h4> 
                         <p>Toby</p>
                     </Carousel.Caption>
-                </Carousel.Item>
+                </Carousel.Item> */}
                 {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-9 img d-block m-auto'
@@ -238,7 +238,7 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
-                <Carousel.Item className="carousel-item">
+                {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-5 img d-block m-auto'
                         src='jamboretz-anne-colors.png'
@@ -248,8 +248,8 @@ function ImageCarousel() {
                     {/* <Carousel.Caption>
                         <h3>Colors</h3>
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
-                    </Carousel.Caption> */}
-                </Carousel.Item>
+                    </Carousel.Caption>
+                </Carousel.Item> */}
                 {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-10 img d-block m-auto'
@@ -262,7 +262,7 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 {/* </Carousel.Item> */}
-                <Carousel.Item className="carousel-item">
+                {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-11 img d-block m-auto'
                         src='jamboretz-anne-marchingband.png'
@@ -272,9 +272,9 @@ function ImageCarousel() {
                     {/* <Carousel.Caption>
                         <h3>Marching Band</h3>
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
-                    </Carousel.Caption> */}
-                </Carousel.Item>
-                <Carousel.Item className="carousel-item">
+                    </Carousel.Caption> 
+                </Carousel.Item> */}
+                {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-12 img d-block m-auto'
                         src='jamboretz-anne-railroadhouse.png'
@@ -284,8 +284,8 @@ function ImageCarousel() {
                     {/* <Carousel.Caption>
                         <h3>Rail Road House</h3>
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
-                    </Carousel.Caption> */}
-                </Carousel.Item>
+                    </Carousel.Caption>
+                </Carousel.Item> */}
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-13 img d-block m-auto'
@@ -322,7 +322,7 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 {/* </Carousel.Item> */}
-                <Carousel.Item className="carousel-item">
+                {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-16 img d-block m-auto'
                         src='jamboretz-anne-womenportrait.png'
@@ -332,8 +332,8 @@ function ImageCarousel() {
                     {/* <Carousel.Caption>
                         <h3>Women Portrait</h3>
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
-                    </Carousel.Caption> */}
-                </Carousel.Item>
+                    </Carousel.Caption>
+                </Carousel.Item> */}
                 {/* <Carousel.Item className="carousel-item">
                     <img
                         className='number-2 img d-block m-auto'
