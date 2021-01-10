@@ -1,0 +1,57 @@
+.Body {
+    color: rgba(0,0,0,.5);
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+p {
+    color: rgba(0,0,0,.5)
+}
+
+.carousel-item {
+    position: relative !important;
+    height: 550px
+}
+
+.img {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 50%;
+}
+
+.image-overlay {
+    position: absolute;
+    /* opacity: 0.5; */
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    background-image: url(../transparent2.png);
+    /* background: rgba(0, 0, 0, 0.6) */
+}
+
+p {
+    color: white
+}
+
+.description {
+    color: rgba(0,0,0,.5);
+}
+
+@media screen and (max-width: 415px) {
+    .img {
+        width: 100%;
+    }
+
+    p {
+        color: rgba(0,0,0,.5)
+    }
+
+    .profile-pic {
+        width: 100%;
+    }
+}

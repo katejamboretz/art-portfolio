@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import ImageCarousel from '../ImageCarousel';
+import ImageCarousel from './ImageCarousel';
 import './pagestyle.css';
 
 
-export default class Portfolio extends Component {
+export default class Landscapes extends Component {
 
     render() {
         return (
