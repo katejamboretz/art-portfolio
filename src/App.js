@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import NavTabs from "./components/NavTabs"
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import Portfolio from "./components/pages/Portfolio/ImageCarousel";
+import Portfolio from "./components/pages/Portfolio/index";
 import About from "./components/pages/About";
 import Contact from "./components/pages/Contact";
 import './App.css'

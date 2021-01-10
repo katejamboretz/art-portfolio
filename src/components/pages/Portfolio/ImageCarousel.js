@@ -6,6 +6,7 @@ function ImageCarousel() {
     return (
         <div className="Center h-100">
             <Carousel>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-1 img d-block m-auto'
@@ -18,6 +19,7 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-2 img d-block m-auto'
@@ -30,6 +32,7 @@ function ImageCarousel() {
                         <p>8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-3 img d-block m-auto'
@@ -41,6 +44,7 @@ function ImageCarousel() {
                         <p>8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-4 img d-block m-auto'
@@ -53,6 +57,7 @@ function ImageCarousel() {
                         <p>8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-5 img d-block m-auto'
@@ -64,6 +69,7 @@ function ImageCarousel() {
                         <p>8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-6 img d-block m-auto'
@@ -71,11 +77,9 @@ function ImageCarousel() {
                         alt='Buffalo'
                     />
                     <div className="image-overlay"></div>
-                    {/* <Carousel.Caption>
-                        <h4>Abstract</h4>
-                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
-                    </Carousel.Caption> */}
+
                 </Carousel.Item>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-7 img d-block m-auto'
@@ -87,6 +91,7 @@ function ImageCarousel() {
                         <p>8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-8 img d-block m-auto'
@@ -98,6 +103,7 @@ function ImageCarousel() {
                         <p>8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-9 img d-block m-auto'
@@ -109,6 +115,7 @@ function ImageCarousel() {
                         <p>8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-10 img d-block m-auto'
@@ -120,6 +127,7 @@ function ImageCarousel() {
                         <p>8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-11 img d-block m-auto'
@@ -131,6 +139,7 @@ function ImageCarousel() {
                         <p>8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-12 img d-block m-auto'
@@ -143,6 +152,7 @@ function ImageCarousel() {
                         <p>8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-13 img d-block m-auto'
@@ -155,6 +165,7 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-14 img d-block m-auto'
@@ -167,6 +178,7 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-15 img d-block m-auto'
@@ -179,6 +191,7 @@ function ImageCarousel() {
                         <p>Anne Jamboretz Copyright 2020 &copy;</p>
                     </Carousel.Caption> */}
                 </Carousel.Item>
+
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-16 img d-block m-auto'
