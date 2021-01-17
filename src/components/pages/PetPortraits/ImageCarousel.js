@@ -22,6 +22,18 @@ function ImageCarousel() {
 
                 <Carousel.Item className="carousel-item">
                     <img
+                        className='number-2.5 img d-block m-auto'
+                        src='jamboretz-anne-greeneyecat.png'
+                        alt='Green Eye Cat'
+                    />
+                    <div className="image-overlay"></div>
+                    <Carousel.Caption>
+                        <p>8x10", oil paint on stretched canvas</p>
+                    </Carousel.Caption>
+                </Carousel.Item>
+
+                <Carousel.Item className="carousel-item">
+                    <img
                         className='number-2 img d-block m-auto'
                         src='jamboretz-anne-cat.png'
                         alt='Cat'
@@ -53,6 +65,19 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
+                        <p>8x10", oil paint on stretched canvas</p>
+                    </Carousel.Caption>
+                </Carousel.Item>
+
+                <Carousel.Item className="carousel-item">
+                    <img
+                        className='number-4.5 img d-block m-auto'
+                        src='jamboretz-anne-romeophebe.png'
+                        alt='Romeo and Phebe'
+                    />
+                    <div className="image-overlay"></div>
+                    <Carousel.Caption>
+                        <p>Romeo and Phebe</p>
                         <p>8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
