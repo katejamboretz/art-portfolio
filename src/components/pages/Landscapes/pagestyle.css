@@ -35,18 +35,20 @@ p {
     text-shadow: 2px 2px rgba(0,0,0,.5);
 }
 
-/* .description {
+.description {
     color: rgba(0,0,0,.5);
-} */
+    text-shadow: none;
+}
 
 @media screen and (max-width: 415px) {
     .img {
         width: 100%;
     }
 
-    /* p {
-        color: rgba(0,0,0,.5)
-    } */
+    p {
+        color: rgba(0,0,0,.5);
+        text-shadow: none;
+    }
 
     .profile-pic {
         width: 100%;

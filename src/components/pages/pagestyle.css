@@ -7,10 +7,6 @@
     margin-bottom: auto;
 }
 
-p {
-    color: rgba(0,0,0,.5)
-}
-
 .carousel-item {
     position: relative !important;
     height: 550px
@@ -35,21 +31,23 @@ p {
 }
 
 p {
-    color: white
+    color: white;
 }
 
-/* .description {
+.description {
     color: rgba(0,0,0,.5);
-} */
+    text-shadow: none;
+}
 
 @media screen and (max-width: 415px) {
     .img {
         width: 100%;
     }
 
-    /* p {
-        color: rgba(0,0,0,.5)
-    } */
+    p {
+        color: rgba(0,0,0,.5);
+        text-shadow: none;
+    }
 
     .profile-pic {
         width: 100%;
