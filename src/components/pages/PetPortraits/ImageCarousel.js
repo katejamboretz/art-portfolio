@@ -53,7 +53,7 @@ function ImageCarousel() {
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
                         <p>Reef</p>
-                        <p>8x10", oil paint on stretched canvas</p>
+                        <p>7.32x13", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -102,6 +102,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
+                        <p>Sid</p>
                         <p>8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -151,7 +152,7 @@ function ImageCarousel() {
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
                         <p>Coco</p>
-                        <p>8x10", oil paint on stretched canvas</p>
+                        <p>10.66x14", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -162,7 +163,10 @@ function ImageCarousel() {
                         alt='Buffalo'
                     />
                     <div className="image-overlay"></div>
-
+                    <Carousel.Caption>
+                        <p>Four Wildebeest</p>
+                        <p>10x8", oil paint on stretched canvas</p>
+                    </Carousel.Caption>
                 </Carousel.Item>
 
             </Carousel>

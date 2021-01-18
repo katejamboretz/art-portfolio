@@ -14,10 +14,10 @@ function ImageCarousel() {
                         alt='Double Guitar'
                     />
                     <div className="image-overlay"></div>
-                    {/* <Carousel.Caption>
-                        <h4>Abstract</h4>
-                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
-                    </Carousel.Caption> */}
+                    <Carousel.Caption>
+                        <p>Jimmy Page</p>
+                        <p>13.5x14", oil paint on stretched canvas</p>
+                    </Carousel.Caption>
                 </Carousel.Item>
 
                 <Carousel.Item className="carousel-item">
@@ -66,7 +66,8 @@ function ImageCarousel() {
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
                         <p>Reef</p>
-                        <p>8x10", oil paint on stretched canvas</p>
+                        <p>7.32x13", oil paint on stretched canvas</p>
+                        <p></p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -89,7 +90,10 @@ function ImageCarousel() {
                         alt='Buffalo'
                     />
                     <div className="image-overlay"></div>
-
+                    <Carousel.Caption>
+                        <p>Four Wildebeest</p>
+                        <p>10x8", oil paint on stretched canvas</p>
+                    </Carousel.Caption>
                 </Carousel.Item>
 
                 <Carousel.Item className="carousel-item">
@@ -125,6 +129,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
+                        <p>Sid</p>
                         <p>8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -174,7 +179,7 @@ function ImageCarousel() {
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
                         <p>Coco</p>
-                        <p>8x10", oil paint on stretched canvas</p>
+                        <p>10.66x14", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -198,10 +203,10 @@ function ImageCarousel() {
                         alt='Guitarist'
                     />
                     <div className="image-overlay"></div>
-                    {/* <Carousel.Caption>
-                        <h3>Guitarist</h3>
-                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
-                    </Carousel.Caption> */}
+                    <Carousel.Caption>
+                        <p>Buddy Guy</p>
+                        <p>8.29x7", oil paint on stretched canvas</p>
+                    </Carousel.Caption>
                 </Carousel.Item>
 
                 <Carousel.Item className="carousel-item">
@@ -211,10 +216,10 @@ function ImageCarousel() {
                         alt='City'
                     />
                     <div className="image-overlay"></div>
-                    {/* <Carousel.Caption>
-                        <h3>City</h3>
-                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
-                    </Carousel.Caption> */}
+                    <Carousel.Caption>
+                        <p>The City</p>
+                        <p>10x10.81", oil paints and pastels</p>
+                    </Carousel.Caption>
                 </Carousel.Item>
 
                 <Carousel.Item className="carousel-item">
@@ -224,10 +229,10 @@ function ImageCarousel() {
                         alt='Sound of Jazz'
                     />
                     <div className="image-overlay"></div>
-                    {/* <Carousel.Caption>
-                        <h3>Sound of Jazz</h3>
-                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
-                    </Carousel.Caption> */}
+                    <Carousel.Caption>
+                        <p>Four Musicians</p>
+                        <p>9x9.26", oil paint on stretched canvas</p>
+                    </Carousel.Caption>
                 </Carousel.Item>
 
             </Carousel>

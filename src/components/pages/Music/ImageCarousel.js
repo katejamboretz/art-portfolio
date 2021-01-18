@@ -14,10 +14,10 @@ function ImageCarousel() {
                         alt='Double Guitar'
                     />
                     <div className="image-overlay"></div>
-                    {/* <Carousel.Caption>
-                        <h4>Abstract</h4>
-                        <p>Anne Jamboretz Copyright 2020 &copy;</p>
-                    </Carousel.Caption> */}
+                    <Carousel.Caption>
+                        <p>Jimmy Page</p>
+                        <p>13.5x14", oil paint on stretched canvas</p>
+                    </Carousel.Caption>
                 </Carousel.Item>
 
                 <Carousel.Item className="carousel-item">
@@ -27,6 +27,11 @@ function ImageCarousel() {
                         alt='Guitarist'
                     />
                     <div className="image-overlay"></div>
+                    <Carousel.Caption>
+                        <p>Buddy Guy</p>
+                        <p>8.29x7", oil paint on stretched canvas</p>
+                    </Carousel.Caption>
+
 
                 </Carousel.Item>
 
@@ -37,6 +42,10 @@ function ImageCarousel() {
                         alt='Sound of Jazz'
                     />
                     <div className="image-overlay"></div>
+                    <Carousel.Caption>
+                        <p>Four Musicians</p>
+                        <p>9x9.26", oil paint on stretched canvas</p>
+                    </Carousel.Caption>
 
                 </Carousel.Item>
 
