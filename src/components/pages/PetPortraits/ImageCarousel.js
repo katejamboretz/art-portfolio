@@ -9,6 +9,69 @@ function ImageCarousel() {
 
                 <Carousel.Item className="carousel-item">
                     <img
+                        className='number-01 img d-block m-auto'
+                        src='jamboretz-anne-carmelita.png'
+                        alt='Carmelita'
+                    />
+                    <div className="image-overlay"></div>
+                    <Carousel.Caption>
+                        <p>Carmelita</p>
+                        <p>8x10", oil paint on stretched canvas</p>
+                    </Carousel.Caption>
+                </Carousel.Item>
+
+                <Carousel.Item className="carousel-item">
+                    <img
+                        className='number-02 img d-block m-auto'
+                        src='jamboretz-anne-osa.png'
+                        alt='Osa'
+                    />
+                    <div className="image-overlay"></div>
+                    <Carousel.Caption>
+                        <p>Osa</p>
+                        <p>8x10", oil paint on stretched canvas</p>
+                    </Carousel.Caption>
+                </Carousel.Item>
+
+                <Carousel.Item className="carousel-item">
+                    <img
+                        className='number-03 img d-block m-auto'
+                        src='jamboretz-anne-catstare.png'
+                        alt='Cat Stare'
+                    />
+                    <div className="image-overlay"></div>
+                    <Carousel.Caption>
+                        <p>8x10", oil paint on stretched canvas</p>
+                    </Carousel.Caption>
+                </Carousel.Item>
+
+                <Carousel.Item className="carousel-item">
+                    <img
+                        className='number-04 img d-block m-auto'
+                        src='jamboretz-anne-foxylady.png'
+                        alt='Foxy Lady'
+                    />
+                    <div className="image-overlay"></div>
+                    <Carousel.Caption>
+                        <p>Foxy Lady</p>
+                        <p>8x10", oil paint on stretched canvas</p>
+                    </Carousel.Caption>
+                </Carousel.Item>
+
+                <Carousel.Item className="carousel-item">
+                    <img
+                        className='number-05 img d-block m-auto'
+                        src='jamboretz-anne-catcouch.png'
+                        alt='Cat Couch'
+                    />
+                    <div className="image-overlay"></div>
+                    <Carousel.Caption>
+                        <p>8x10", oil paint on stretched canvas</p>
+                    </Carousel.Caption>
+                </Carousel.Item>
+
+                <Carousel.Item className="carousel-item">
+                    <img
                         className='number-1 img d-block m-auto'
                         src='jamboretz-anne-boxer.png'
                         alt='Boxer'
