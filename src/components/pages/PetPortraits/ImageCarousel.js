@@ -116,7 +116,7 @@ function ImageCarousel() {
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
                         <p>Reef</p>
-                        <p>7.32x13", oil paint on stretched canvas</p>
+                        <p>7.32x13", oil paint on canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 

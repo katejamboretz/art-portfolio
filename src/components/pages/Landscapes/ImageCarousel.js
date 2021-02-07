@@ -29,7 +29,7 @@ function ImageCarousel() {
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
                         <p>The City</p>
-                        <p>10x10.81", oil paints and pastels</p>
+                        <p>10x10.81", oil paints and pastels on canvas</p>
                     </Carousel.Caption>
 
                 </Carousel.Item>

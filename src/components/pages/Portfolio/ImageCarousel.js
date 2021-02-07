@@ -45,8 +45,6 @@ function ImageCarousel() {
                     </Carousel.Caption>
                 </Carousel.Item>
 
-
-
                 <Carousel.Item className="carousel-item">
                     <img
                         className='number-1 img d-block m-auto'
@@ -131,7 +129,7 @@ function ImageCarousel() {
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
                         <p>Reef</p>
-                        <p>7.32x13", oil paint on stretched canvas</p>
+                        <p>7.32x13", oil paint on canvas</p>
                         <p></p>
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -270,7 +268,7 @@ function ImageCarousel() {
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
                         <p>Buddy Guy</p>
-                        <p>8.29x7", oil paint on stretched canvas</p>
+                        <p>8.29x7", oil paint on canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -283,7 +281,7 @@ function ImageCarousel() {
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
                         <p>The City</p>
-                        <p>10x10.81", oil paints and pastels</p>
+                        <p>10x10.81", oil paints and pastels on canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -296,7 +294,7 @@ function ImageCarousel() {
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
                         <p>Four Musicians</p>
-                        <p>9x9.26", oil paint on stretched canvas</p>
+                        <p>9x9.26", oil paint on canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 

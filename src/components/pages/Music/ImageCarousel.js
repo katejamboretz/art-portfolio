@@ -29,7 +29,7 @@ function ImageCarousel() {
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
                         <p>Buddy Guy</p>
-                        <p>8.29x7", oil paint on stretched canvas</p>
+                        <p>8.29x7", oil paint on canvas</p>
                     </Carousel.Caption>
 
 
@@ -44,7 +44,7 @@ function ImageCarousel() {
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
                         <p>Four Musicians</p>
-                        <p>9x9.26", oil paint on stretched canvas</p>
+                        <p>9x9.26", oil paint on canvas</p>
                     </Carousel.Caption>
 
                 </Carousel.Item>
