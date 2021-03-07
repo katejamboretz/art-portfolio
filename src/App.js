@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import NavTabs from "./components/NavTabs"
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Portfolio from "./components/pages/Portfolio/index";
@@ -8,31 +8,33 @@ import './App.css'
 import PetPortraits from './components/pages/PetPortraits/index';
 import Music from './components/pages/Music/index';
 import Landscapes from './components/pages/Landscapes/index';
+import HttpsRedirect from 'react-https-redirect';
 
-
-class App extends Component {
+class HttpsApp extends React.Component {
 
 
   render() {
     return (
-      <div>
-        <Router>
-          <div>
-            <NavTabs />
-            <Route exact path="/" component={Portfolio} />
-            <Route exact path="/contact" component={Contact} />
-            <Route exact path="/about" component={About} />
-            <Route path="/portfolio" component={Portfolio} />
-            <Route path="/pets" component={PetPortraits} />
-            <Route path="/music" component={Music} />
-            <Route path="/landscapes" component={Landscapes} />
-          </div>
-        </Router>
-      </div>
+      <HttpsRedirect>
+        <div>
+          <Router>
+            <div>
+              <NavTabs />
+              <Route exact path="/" component={Portfolio} />
+              <Route exact path="/contact" component={Contact} />
+              <Route exact path="/about" component={About} />
+              <Route path="/portfolio" component={Portfolio} />
+              <Route path="/pets" component={PetPortraits} />
+              <Route path="/music" component={Music} />
+              <Route path="/landscapes" component={Landscapes} />
+            </div>
+          </Router>
+        </div>
+      </HttpsRedirect>
     );
 
 
   }
 }
 
-export default App;
+export default HttpsApp;
