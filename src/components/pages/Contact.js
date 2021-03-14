@@ -20,7 +20,7 @@ export default class Contact extends Component {
                 <p className="description">< GiBeveledStar /></p>
                 <br></br>
                 <p className="description">
-                    To inquire about custom pieces or prints, or display art at your business, please email anne.jamboretz@gmail.com.
+                    To inquire about custom pieces or prints, or display art at your business, email anne.jamboretz@gmail.com.
                 </p>
                 <br></br>
                 <p className="description">< GiBeveledStar /></p>
