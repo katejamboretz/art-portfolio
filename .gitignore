@@ -1,26 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# images
-# /public/images
-# /src/images
-# /src/components/images
-# /public/jamboretz-anne-abstract.jpg
-# /public/jamboretz-anne-abstract2.jpg
-# /public/jamboretz-anne-brass.jpg
-# /public/jamboretz-anne-city.jpg
-# /public/jamboretz-anne-colors.jpg
-# /public/jamboretz-anne-curious.jpg
-# /public/jamboretz-anne-forestfire.jpg
-# /public/jamboretz-anne-guitarist.jpg
-# /public/jamboretz-anne-jazzconcert.jpg
-# /public/jamboretz-anne-jazzconcert_sm.jpg
-# /public/jamboretz-anne-lake.jpg
-# /public/jamboretz-anne-marchingband.jpg
-# /public/jamboretz-anne-railroadhouse.jpg
-# /public/jamboretz-anne-soundofjazz.jpg
-# /public/jamboretz-anne-streetlights.jpg
-# /public/jamboretz-anne-trane.jpg
-# /public/jamboretz-anne-womenportrait.jpg
+# google verification
+/public/google9548ab2676fcc96b.html
 
 # dependencies
 /node_modules
