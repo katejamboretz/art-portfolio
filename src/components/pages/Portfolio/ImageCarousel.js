@@ -15,8 +15,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>Carmelita</p>
-                        <p>8x10", oil paint on stretched canvas</p>
+                        <p>Carmelita, 8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -28,8 +27,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>Osa</p>
-                        <p>8x10", oil paint on stretched canvas</p>
+                        <p>Osa, 8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -53,8 +51,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>Jimmy Page</p>
-                        <p>13.5x14", oil paint on stretched canvas</p>
+                        <p>Jimmy Page, 13.5x14", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -66,8 +63,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>Kokua</p>
-                        <p>8x10", oil paint on stretched canvas</p>
+                        <p>Kokua, 8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -79,8 +75,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>Foxy Lady</p>
-                        <p>8x10", oil paint on stretched canvas</p>
+                        <p>Foxy Lady, 8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -128,8 +123,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>Reef</p>
-                        <p>7.32x13", oil paint on canvas</p>
+                        <p>Reef, 7.32x13", oil paint on canvas</p>
                         <p></p>
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -154,8 +148,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>Four Wildebeest</p>
-                        <p>10x8", oil paint on stretched canvas</p>
+                        <p>Four Wildebeest, 10x8", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -167,8 +160,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>Romeo and Phebe</p>
-                        <p>8x10", oil paint on stretched canvas</p>
+                        <p>Romeo and Phebe, 8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -192,8 +184,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>Sid</p>
-                        <p>8x10", oil paint on stretched canvas</p>
+                        <p>Sid, 8x10", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -241,8 +232,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>Coco</p>
-                        <p>10.66x14", oil paint on stretched canvas</p>
+                        <p>Coco, 10.66x14", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -267,8 +257,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>Buddy Guy</p>
-                        <p>8.29x7", oil paint on canvas</p>
+                        <p>Buddy Guy, 8.29x7", oil paint on canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -280,8 +269,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>The City</p>
-                        <p>10x10.81", oil paints and pastels on canvas</p>
+                        <p>The City, 10x10.81", oil paints and pastels on canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -293,8 +281,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>Four Musicians</p>
-                        <p>9x9.26", oil paint on canvas</p>
+                        <p>Four Musicians, 9x9.26", oil paint on canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 

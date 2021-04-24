@@ -15,8 +15,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>Jimmy Page</p>
-                        <p>13.5x14", oil paint on stretched canvas</p>
+                        <p>Jimmy Page, 13.5x14", oil paint on stretched canvas</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -28,8 +27,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>Buddy Guy</p>
-                        <p>8.29x7", oil paint on canvas</p>
+                        <p>Buddy Guy, 8.29x7", oil paint on canvas</p>
                     </Carousel.Caption>
 
 
@@ -43,8 +41,7 @@ function ImageCarousel() {
                     />
                     <div className="image-overlay"></div>
                     <Carousel.Caption>
-                        <p>Four Musicians</p>
-                        <p>9x9.26", oil paint on canvas</p>
+                        <p>Four Musicians, 9x9.26", oil paint on canvas</p>
                     </Carousel.Caption>
 
                 </Carousel.Item>
