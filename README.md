@@ -1,3 +1,40 @@
+# Anne Jamboretz Art Studio
+
+This artist's portfolio website was developed to connect my sister with potential clients. It is a simple react bootstrap format with photos broken up into different albums and image carousels. I'm hoping to slowly enhance the design and animation elements and enable purchasing through the site. Earlier versions of the site had a black background which I've since switched out for a white background, a heroku domain which was switched out for a purchased domain, as well as a watermark over the images designed with Canva. My sister found the watermark distracting and there is a debate about whether watermarks are helpful, since artwork is copyrighted upon its creation, so current images are displayed without a watermark.
+
+## Depoyed Website Link
+
+[Anne Jamboretz Art Studio](https://www.annejamboretzartstudio.com/)
+
+## Built With
+
+- [Create React App](https://github.com/facebook/create-react-app) - start with create-react-app wireframe
+- [React Bootstrap](https://react-bootstrap.github.io/getting-started/introduction) - node module to implement straightforward bootstrap design elements into site
+- [Heroku](https://www.heroku.com/about) - used for initial published site
+- [Canva](https://www.canva.com/) - a pay-per-month online design software used to create watermarks in an earlier verson of the website
+- [Name.com Domain and SSL]() - purchased current domain name and enable Name.com security verification
+- [Google Verification](https://support.google.com/webmasters/answer/9008080?hl=en) - provide html file to verify site and scheduled google crawl so customers can google search site
+- [Google Fonts](https://fonts.google.com) - Google source for personalized fonts
+- [Node Modules](https://www.npmjs.com/) - various javascript libraries used to implement front-end site
+- [Javascript](https://www.javascript.com/) - used as basis for front-end website
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - HyperText Markup Language used for structure
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Cascading Style Sheets used for styling
+
+## Authors
+
+- **Kate Jamboretz** - _Initial work_ - [katejamboretz](https://github.com/katejamboretz)
+- **Anne Jamboretz** - _Artwork_ - [Anne Jamboretz Art Studio](https://www.annejamboretzartstudio.com/)
+
+## Acknowledgments
+
+- [PurpleBooth README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+
+
+
+
+
+# Notes from Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
